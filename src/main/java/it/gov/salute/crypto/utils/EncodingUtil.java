@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.gov.salute.crypto.utils;
 
 import static java.nio.charset.StandardCharsets.UTF_8;

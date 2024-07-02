@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.gov.salute.crypto.engine;
 
 import java.security.Provider;

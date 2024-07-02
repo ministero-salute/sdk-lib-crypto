@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.gov.salute.crypto.constants;
 
 import it.gov.salute.crypto.beans.MimeType;
